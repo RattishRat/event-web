@@ -1,0 +1,18 @@
+create .env file:
+DATABASE_URL="file:./dev.db"
+JWT_SECRET="supersecretkey123"
+FRONTEND_URL=http://localhost:5173
+PORT=4000
+
+/////
+
+redo prisma
+
+install vite
+npm create vite@latest
+
+install dependencies in backend
+prisma in backend
+cors, JWT, express, node.js
+
+install react-dom-router(not spa) in frontend
